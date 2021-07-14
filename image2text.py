@@ -10,7 +10,7 @@ import math
 from PIL import Image
 import sys
 
-CHARACTER_WIDTH = 15
+CHARACTER_WIDTH = 14
 CHARACTER_HEIGHT = 25
 TRAIN_LETTERS_G = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789(),.-!?\"' "
 
